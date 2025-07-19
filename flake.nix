@@ -22,6 +22,7 @@
       "Menace-Mamaki"
       "miku-cursor-linux"
       "Reichi-Shinigami"
+      "Charlotte-Suzu"
     ];
 
     mkCursor = name:
