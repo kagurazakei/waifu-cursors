@@ -14,9 +14,11 @@
     cursorSrc = self;
 
     themeNames = [
+      "Bloodthirst"
       "Hoshimi-Miyami"
       "Imouto"
       "Kirispica"
+      "Koseki-Bijou"
       "Menace-Mamaki"
       "miku-cursor-linux"
       "Reichi-Shinigami"
