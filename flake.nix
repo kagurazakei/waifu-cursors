@@ -23,6 +23,10 @@
       "miku-cursor-linux"
       "Reichi-Shinigami"
       "Charlotte-Suzu"
+      "Chiharu"
+      "Yuurei-Angel"
+      "Sylverlilith"
+      "Hatsune-Miku"
     ];
 
     mkCursor = name:
